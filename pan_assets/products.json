@@ -1,0 +1,52 @@
+[
+  {
+    "data": { "id": "Filament", "label": "Filament" },
+    "position": { "x": 100, "y": 100 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Filament geprueft", "label": "Filament gepr\u00fcft" },
+    "position": { "x": 500, "y": 100 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Rotor", "label": "Rotor" },
+    "position": { "x": 900, "y": 100 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Alurohr", "label": "Alurohr" },
+    "position": { "x": 100, "y": 400 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Alurohr geprueft", "label": "Alurohr gepr\u00fcft" },
+    "position": { "x": 500, "y": 400 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Turm", "label": "Turm" },
+    "position": { "x": 900, "y": 400 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Holzblock", "label": "Holzblock" },
+    "position": { "x": 100, "y": 700 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Holzblock geprueft", "label": "Holzblock gepr\u00fcft" },
+    "position": { "x": 500, "y": 700 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Boden", "label": "Boden" },
+    "position": { "x": 900, "y": 700 },
+    "classes": "product"
+  },
+  {
+    "data": { "id": "Windmill", "label": "Windmill" },
+    "position": { "x": 1800, "y": 400 },
+    "classes": "product"
+  }
+]

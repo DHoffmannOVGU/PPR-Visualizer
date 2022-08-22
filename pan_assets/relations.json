@@ -1,0 +1,128 @@
+[
+ {
+  "data": {
+   "source": "Filament",
+   "target": "Warenpruefung"
+  }
+ },
+ {
+  "data": {
+   "source": "Warenpruefung",
+   "target": "Operator"
+  }
+ },
+ {
+  "data": {
+   "source": "Warenpruefung",
+   "target": "Filament geprueft"
+  }
+ },
+ {
+  "data": {
+   "source": "Alurohr",
+   "target": "Warenpruefung2"
+  }
+ },
+ {
+  "data": {
+   "source": "Warenpruefung2",
+   "target": "Alurohr geprueft"
+  }
+ },
+ {
+  "data": {
+   "source": "Alurohr geprueft",
+   "target": "Saegen"
+  }
+ },
+ {
+  "data": {
+   "source": "Saegen",
+   "target": "Turm"
+  }
+ },
+ {
+  "data": {
+   "source": "Turm",
+   "target": "Positionieren"
+  }
+ },
+ {
+  "data": {
+   "source": "Positionieren",
+   "target": "Pressen"
+  }
+ },
+ {
+  "data": {
+   "source": "Pressen",
+   "target": "Kontrolle"
+  }
+ },
+ {
+  "data": {
+   "source": "Rotor",
+   "target": "Positionieren"
+  }
+ },
+ {
+  "data": {
+   "source": "Boden",
+   "target": "Positionieren"
+  }
+ },
+ {
+  "data": {
+   "source": "Drucken",
+   "target": "Rotor"
+  }
+ },
+ {
+  "data": {
+   "source": "Filament geprueft",
+   "target": "Drucken"
+  }
+ },
+ {
+  "data": {
+   "source": "Holzblock",
+   "target": "Warenpruefung3"
+  }
+ },
+ {
+  "data": {
+   "source": "Warenpruefung3",
+   "target": "Holzblock geprueft"
+  }
+ },
+ {
+  "data": {
+   "source": "Holzblock geprueft",
+   "target": "Fraesen"
+  }
+ },
+ {
+  "data": {
+   "source": "Fraesen",
+   "target": "Boden"
+  }
+ },
+ {
+  "data": {
+   "source": "Drucker_R1",
+   "target": "Drucken"
+  }
+ },
+ {
+  "data": {
+   "source": "Drucker_R2",
+   "target": "Drucken"
+  }
+ },
+ {
+  "data": {
+   "source": "Kontrolle",
+   "target": "Windmill"
+  }
+ }
+]

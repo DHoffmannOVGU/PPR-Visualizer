@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: black
+}
+
+.page-link {
+    color: #E89348;  
+}
+
+.page-link:hover {
+    background-color: #547C8C;
+    color: aliceblue;
+  }
+  
+.page-link:active {
+    background-color: #547C8C;
+    color: aliceblue;
+} 

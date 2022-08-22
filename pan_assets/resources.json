@@ -1,0 +1,22 @@
+[
+    {
+      "data": { "id": "Operator", "label": "Operator" },
+      "position": { "x": 300, "y": 300 },
+      "classes": "resource"
+    },
+    {
+      "data": { "id": "Drucker_Group", "label": "Drucker", "speed":1 },
+      "position": { "x": 1300, "y": 400 },
+      "classes": ""
+    },
+    {
+      "data": { "id": "Drucker_R1", "label": "Drucker1", "parent":"Drucker_Group" },
+      "position": { "x": 600, "y": 250 },
+      "classes": "resource"
+    },
+    {
+      "data": { "id": "Drucker_R2", "label": "Drucker2", "parent":"Drucker_Group" },
+      "position": { "x": 800, "y": 250 },
+      "classes": "resource"
+    }
+]

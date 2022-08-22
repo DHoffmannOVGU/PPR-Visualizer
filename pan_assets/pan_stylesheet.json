@@ -1,0 +1,54 @@
+[
+  {
+    "selector": "node",
+    "style": {
+      "content": "data(label)",
+      "text-halign": "center",
+      "text-valign": "center",
+      "width": "100",
+      "height": "50",
+      "text-max-width": "90",
+      "text-wrap": "wrap"
+    }
+  },
+
+  {
+    "selector": ".process",
+    "style": {
+      "background-color": "#B7DDE8",
+      "line-color": "#B7DDE8",
+      "shape": "rectangle",
+      "text-max-width": 80,
+      "text-justification": "center"
+    }
+  },
+  {
+    "selector": ".product",
+    "style": {
+      "background-color": "#92CDDC",
+      "line-color": "black",
+      "shape": "ellipse",
+      "text-max-width": 80,
+      "text-halign": "center",
+      "text-valign": "center"
+    }
+  },
+  {
+    "selector": ".resource",
+    "style": {
+      "background-color": "#DBEEF3",
+      "line-color": "black",
+      "shape": "round-rectangle",
+      "text-max-width": 80
+    }
+  },
+  {
+    "selector": ":selected",
+    "style": {
+      "background-color": "Red",
+      "line-color": "Red",
+      "border-color": "Red"
+
+    }
+  }
+]

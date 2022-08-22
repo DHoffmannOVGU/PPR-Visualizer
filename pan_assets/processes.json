@@ -1,0 +1,53 @@
+[
+    {
+      "data": { "id": "Warenpruefung", "label": "Waren pr\u00fcfung" },
+      "position": { "x": 300, "y": 100 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Warenpruefung2", "label": "Waren pr\u00fcfung" },
+      "position": { "x": 300, "y": 400 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Warenpruefung3", "label": "Waren pr\u00fcfung" },
+      "position": { "x": 300, "y": 700 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Drucken", "label": "Drucken" },
+      "position": { "x": 700, "y": 100 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Saegen", "label": "S\u00e4gen" },
+      "position": { "x": 700, "y": 400 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Fraesen", "label": "Fr\u00e4sen" },
+      "position": { "x": 700, "y": 700 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Pressfuegen", "label": "Pressf\u00fcgen" },
+      "position": { "x": 1300, "y": 400 },
+      "classes": "parent-process"
+    },
+    {
+      "data": { "id": "Positionieren", "label": "Positionieren", "parent":"Pressfuegen" },
+      "position": { "x": 1100, "y": 400 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Pressen", "label": "Pressen", "parent":"Pressfuegen" },
+      "position": { "x": 1400, "y": 400 },
+      "classes": "process"
+    },
+    {
+      "data": { "id": "Kontrolle", "label": "Kontrolle" },
+      "position": { "x": 1600, "y": 400 },
+      "classes": "process"
+    }
+
+  ]

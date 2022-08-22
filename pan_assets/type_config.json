@@ -1,0 +1,46 @@
+{
+    "Resource": {
+        "Drucker":{
+            "speed": 1,
+            "quality": 1,
+            "cost": 1
+        },
+        "Saege":{
+            "speed": 1,
+            "quality": 1,
+            "cost": 1
+        },
+        "Fraese":{
+            "speed": 1,
+            "quality": 1,
+            "cost": 4
+        },
+        "Presse":{
+            "speed": 3,
+            "quality": 4,
+            "cost": 2
+        }
+    },
+    "Operator": {
+        "Lehrling":{
+            "speed": 1,
+            "quality": 1,
+            "cost": 1
+        },
+        "Geselle":{
+            "speed": 2,
+            "quality": 2,
+            "cost": 2
+        },
+        "Meister":{
+            "speed": 2,
+            "quality": 3,
+            "cost": 3
+        },
+        "Experte":{
+            "speed": 3,
+            "quality": 3,
+            "cost": 4
+        }
+    }
+}
